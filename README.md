@@ -1,2 +1,3 @@
 # Role-Play-Game---Text-Based
-A text based Role Play Game using Python.
+##Introduction
+A text based Role Play Game using Python using Python libraries random, time, os, sys.
